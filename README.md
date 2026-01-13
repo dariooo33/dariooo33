@@ -22,7 +22,7 @@
         </p>
     </div>
     <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS"
+        <img src="https://komarev.com/ghpvc/?username=dariooo33&color=blueviolet&style=flat&label=PROFILE+VIEWS"
             alt="profile views">
     </div>
     <hr width="100%">
